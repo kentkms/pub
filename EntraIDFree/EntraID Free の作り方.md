@@ -15,6 +15,7 @@
 もしマイクロソフトのフリーメールサービス Outlook.com で新規のメールアドレスを取得する場合には以下から作成できます。この場合は Microsoft アカウントも同時に作成されます。
 
 [https://http://outlook.com/](https://http://outlook.com/)
+
 ![alt text](img/image.png)
 
 フリーメールアドレスを取得したら、以下のリンクから Microsoft アカウントを作成します。
