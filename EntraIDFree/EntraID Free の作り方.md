@@ -35,4 +35,24 @@ Microsoft アカウントを作成したら、次に Microsoft Azure の無料�
 
 ![alt text](img/image-4.png)
 
+追加をクリックします。
 
+![alt text](img/image-7.png)
+
+無料で試すをクリックします。
+
+![alt text](img/image-8.png)
+
+3ステップの質問に答えてサブスクリプションを作ります。
+
+![alt text](img/image-9.png)
+
+## Entra ID Free の確認
+
+Entra ID を検索します。
+
+![alt text](img/image-10.png)
+
+Entra ID Free が作成されていることを確認します。
+
+![alt text](img/image-11.png)
