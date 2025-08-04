@@ -5,6 +5,7 @@
 ## 大まかな流れ
 1. **Microsoft アカウントの作成**: Entra ID Free を利用するためには、Microsoft アカウントが必要です。まずは、Microsoft アカウントを作成するためのメールアドレスを用意します。
 2. **Microsoft Azure サブスクリプションの作成**: Microsoft Azure の無料サブスクリプションを作成します。これにより、Entra ID Free を利用するための環境が整います。
+3. **Microsoft Entra ID の確認**: 自動的に Entra ID Free が作成されます。
 
 ## Microsoft アカウントの作成
 
