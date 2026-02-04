@@ -58,3 +58,7 @@ Entra ID を検索します。
 Entra ID Free が作成されていることを確認します。
 
 ![alt text](img/image-11.png)
+
+
+
+
